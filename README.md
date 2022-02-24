@@ -6,3 +6,9 @@
 
 Livro: [Nature of Code](https://natureofcode.com/book/) por Daniel Shiffman
 - [Chapter 6: Autonomous Agents](https://natureofcode.com/book/chapter-6-autonomous-agents/)
+
+# Run
+1. Make sure you already followed the previous steps
+2. Open the FoodTracker group
+3. Open FoodTracker.pyde using Processing 3
+4. Click the play button to run
